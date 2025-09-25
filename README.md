@@ -1,7 +1,7 @@
 # Global Unicorn Investment Strategy Analysis - Market Intelligence & Portfolio Optimization
 
 ## Business Context
-In this portfolio analysis, I examined global unicorn company performance and funding patterns from the perspective of a **Investment Analyst** supporting the **Portfolio Management and Investment Strategy teams'** decision-making for venture capital allocation, market timing optimization, and sector-specific investment strategies across the $3.624B global unicorn ecosystem.
+In this portfolio analysis, I examined global unicorn company performance and funding patterns from the perspective of a Investment Analyst supporting the Portfolio Management and Investment Strategy teams' decision-making for venture capital allocation, market timing optimization, and sector-specific investment strategies across the $3.624B global unicorn ecosystem.
 
 ## Business Question
 **Primary Question:** Which geographic markets, industry sectors, and investment timing strategies offer the strongest returns and growth potential in the unicorn investment landscape?
