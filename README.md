@@ -26,24 +26,24 @@ Geographic concentration in US and China represents 72% of total unicorn valuati
 ## Key Business Insights
 
 ### 1. Geographic Market Concentration Creates Portfolio Risk and Opportunity
-**Finding:** US and China account for 72% of total unicorn valuations with $1.024B and $625B respectively, while other markets remain significantly underrepresented
-**Business Impact:** Geographic concentration indicates both proven market leadership and portfolio diversification risk worth addressing through strategic allocation
-**Recommendation:** Maintain core US/China exposure while identifying emerging market opportunities in Europe and Asia-Pacific for portfolio diversification and early-stage value capture
+- **Finding:** US and China account for 72% of total unicorn valuations with $1.024B and $625B respectively, while other markets remain significantly underrepresented
+- **Business Impact:** Geographic concentration indicates both proven market leadership and portfolio diversification risk worth addressing through strategic allocation
+- **Recommendation:** Maintain core US/China exposure while identifying emerging market opportunities in Europe and Asia-Pacific for portfolio diversification and early-stage value capture
 
 ### 2. Sector Performance Reveals Strategic Investment Themes
-**Finding:** AI, E-commerce, Fintech, and Edtech sectors show valuations exceeding $3.5B average, with AI leading at premium multiples
-**Business Impact:** Sector concentration indicates thematic investment opportunities and timing for portfolio rebalancing toward high-growth technology segments
-**Recommendation:** Partner with Sector Research team to develop AI and Fintech-focused investment strategies while monitoring for sector rotation opportunities in emerging technology areas
+- **Finding:** AI, E-commerce, Fintech, and Edtech sectors show valuations exceeding $3.5B average, with AI leading at premium multiples
+- **Business Impact:** Sector concentration indicates thematic investment opportunities and timing for portfolio rebalancing toward high-growth technology segments
+- **Recommendation:** Partner with Sector Research team to develop AI and Fintech-focused investment strategies while monitoring for sector rotation opportunities in emerging technology areas
 
 ### 3. Investment Timing Analysis Shows Market Cycle Optimization Potential
-**Finding:** 2021 represented 33% of all historical unicorn valuations with average 7-year time-to-unicorn across successful companies
-**Business Impact:** Market timing patterns indicate cyclical investment opportunities and optimal holding period strategies for maximizing returns
-**Recommendation:** Work with Portfolio Strategy team to develop market cycle-based investment timing models and exit strategy optimization for 5-7 year investment horizons
+- **Finding:** 2021 represented 33% of all historical unicorn valuations with average 7-year time-to-unicorn across successful companies
+- **Business Impact:** Market timing patterns indicate cyclical investment opportunities and optimal holding period strategies for maximizing returns
+- **Recommendation:** Work with Portfolio Strategy team to develop market cycle-based investment timing models and exit strategy optimization for 5-7 year investment horizons
 
 ### 4. Top Investor Performance Patterns Indicate Best Practice Strategies
-**Finding:** Sequoia Capital, Tiger Global, and top-tier investors show consistent success across multiple unicorn investments with superior portfolio construction
-**Business Impact:** Successful investor pattern analysis provides blueprint for portfolio optimization and co-investment opportunities
-**Recommendation:** Analyze top investor portfolio construction and co-investment strategies to enhance our own investment selection and timing methodologies
+- **Finding:** Sequoia Capital, Tiger Global, and top-tier investors show consistent success across multiple unicorn investments with superior portfolio construction
+- **Business Impact:** Successful investor pattern analysis provides blueprint for portfolio optimization and co-investment opportunities
+- **Recommendation:** Analyze top investor portfolio construction and co-investment strategies to enhance our own investment selection and timing methodologies
 
 ## Dashboard Highlights
 **Key Visualizations Created:**
@@ -59,9 +59,9 @@ Geographic concentration in US and China represents 72% of total unicorn valuati
 - **Sector Analysis:** Industry-specific insights for thematic investment approaches
 
 ## Methodology
-**Analysis Scope:** 1,044 unicorn companies across global markets with comprehensive valuation and funding analysis
-**Data Period:** Historical unicorn performance analysis through March 2022 with focus on 2021 market acceleration
-**Key Dimensions:** Geographic markets, industry sectors, funding patterns, investor performance, time-to-unicorn metrics
+- **Analysis Scope:** 1,044 unicorn companies across global markets with comprehensive valuation and funding analysis
+- **Data Period:** Historical unicorn performance analysis through March 2022 with focus on 2021 market acceleration
+- **Key Dimensions:** Geographic markets, industry sectors, funding patterns, investor performance, time-to-unicorn metrics
 
 ## Tools & Approach
 - **Python/Jupyter:** Advanced data analysis and statistical modeling for investment pattern identification
